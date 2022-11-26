@@ -1,1 +1,1 @@
-# developer-portfolio-react
+# Developer Personal Portfolio in React JS
